@@ -59,29 +59,55 @@
     color: white;
 }
 .z1::before{
+    content: "";
+    display: inline-block;
     background-image: url(cog-svgrepo-com.svg);
     color: white;
     font-size: 10px;
     width: 10px;
     height: 10px;
+    background-size: cover;
 }
 .z1::after{
+    content: "";
+    display: inline-block;
     background-image: url(chevron-top-svgrepo-com.svg);
     color: white;
-    font-size: 10px;
+    font-size: 20px;
+    background-size: cover;
 }
 .z2::before{
+    content: "";
+    display: inline-block;
     background-image: url(lock-svgrepo-com.svg);
     color: white;
-    font-size: 10px;
+    font-size: 20px;
+    background-size: 20px;
 }
 .z3::before{
+    content: "";
+    display: inline-block;
     background-image: url(credit-card-svgrepo-com.svg);
     color: white;
-    font-size: 10px;
+    font-size: 20px;
+    background-size: 20px;
 }
 .z4::before{
+    content: "";
+    display: inline-block;
     background-image: url(archive-svgrepo-com.svg);
     color: white;
-    font-size: 10px;
+    font-size: 20px;
+    background-size: 20px;
+}
+.z2{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.z3{
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+.z4{
+    list-style-type: none;
 }
