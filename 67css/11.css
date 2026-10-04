@@ -1,0 +1,98 @@
+.z1{
+    background-color: #ff9a01;
+    width: 600px;
+    height: 30px;
+}
+.z2 li{
+    color: white;
+    display: inline-block;
+    list-style: none;
+    padding: 6px;
+}
+.z2 li:hover{
+    background-color: red;
+}
+.z3{
+    background-color: green;
+    position: absolute;
+    top: 30px;
+    margin: 0;
+    padding: 0;
+    width: 80px;
+    display: none;
+}
+.z4{
+    position: relative;
+}
+.z3 li:hover{
+    background-color: transparent;
+}
+.a1{
+    background-color: rgb(34, 76, 203);
+    width: 1170px;
+    height: 70px;
+}
+.a1 li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    padding: 26px;
+}
+.a1 li:hover{
+    background-color: white;
+    color: red;
+}
+.a2{
+    background-image: url(bg.png);
+    width: 1170px;
+    height: 568px;
+}
+.a3{
+    position: absolute;
+    background-color: white;
+    width: 300px;
+    height: 391px;
+    top: 70px;
+    left: 0px;
+}
+.a4{
+    background-color: white;
+
+}
+.m1{
+    position: relative;
+    padding: 3px;
+    display: none;
+}
+.m1 li:hover{
+    
+}
+.s1{
+    margin: 0;
+    font-size: 20px;
+    color: red;
+}
+.s2{
+    margin: 0;
+    color: black;
+}
+.a4 img{
+    display: inline-block;
+}
+.s3{
+    display: inline-block;
+    vertical-align: top;
+}
+.s4{
+    margin: 17px;
+    padding-left: 17px;
+    padding-right: 17px;
+    color: white;
+    background-color: blue;
+}
+.m1:hover .a3{
+    display: block;
+}
+.a3{
+    display: none;
+}

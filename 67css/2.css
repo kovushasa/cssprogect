@@ -1,0 +1,66 @@
+.r4{
+    font-weight: 400;
+    color: aqua;
+    font-size: 5px;
+}
+.t4{
+    font-weight: 100;
+    font-size: 10px;
+}
+.e2{
+    font-weight: 700;
+    font-size: 25px;
+}
+.v3{
+    font-weight: 900;
+    font-size: 50px;
+}
+.z2{
+    font-style: italic;
+}
+.e3{
+    font-style: normal;
+}
+.w2{
+    line-height: 50px        ;
+    text-indent: 20px;
+}
+.s1{
+    text-decoration: overline;
+}
+.s2{
+    text-decoration: underline;
+}
+.s3{
+    text-decoration: line-through;
+}
+.s4{
+
+}
+.s5{
+    text-decoration: none;
+}
+body{
+    font-family:    serif;
+}
+.r3{
+    color: red;
+}
+.r4{
+    color: blue;
+}
+.m7{
+    color: green;
+}
+.u6{
+    font-style: italic              ;
+    color: blueviolet;
+}
+.b6{
+    color: blue;
+}
+.r9{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}

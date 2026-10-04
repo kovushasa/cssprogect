@@ -1,0 +1,87 @@
+.q2{
+    height: 0px;
+    width: 880px;
+    border: 3px solid red ;
+    position: relative;
+    display: inline-block;
+    position: relative;
+}
+.q2::after{
+    content: "MORE \00a0\00a0\00a0 \00a0  +";
+    width: 85px;
+    height: 20px;
+    color: white;
+    background-color: red;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.container2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 150px 100px;
+    gap: 20px ;
+}
+.q1{
+    margin-bottom: 0px;
+}
+.item{
+    width: 370px;
+    height: 164px;
+    font-size: 18px;
+}
+.q3{
+    color: red;
+}
+.q4{
+    margin-bottom: -17px;
+}
+.q5{
+    margin-left: -340px;
+}
+.q6{
+    border-bottom: 1px dotted grey;
+}
+.list{
+    display: none;
+}
+.trigger{
+    display: none;
+}
+.trigger:checked~.list{
+    display: block;
+}
+.z1{
+    background: linear-gradient(#ACA3FF, #DAA3FF, #FFA3F6);
+    border-radius:10px ;
+    width: 155px;
+    height: 180px;
+    color: white;
+}
+.z1::before{
+    background-image: url(cog-svgrepo-com.svg);
+    color: white;
+    font-size: 10px;
+    width: 10px;
+    height: 10px;
+}
+.z1::after{
+    background-image: url(chevron-top-svgrepo-com.svg);
+    color: white;
+    font-size: 10px;
+}
+.z2::before{
+    background-image: url(lock-svgrepo-com.svg);
+    color: white;
+    font-size: 10px;
+}
+.z3::before{
+    background-image: url(credit-card-svgrepo-com.svg);
+    color: white;
+    font-size: 10px;
+}
+.z4::before{
+    background-image: url(archive-svgrepo-com.svg);
+    color: white;
+    font-size: 10px;
+}

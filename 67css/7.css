@@ -1,0 +1,110 @@
+.x1{
+    list-style-type: square ;
+}
+.x2{
+    list-style-type: circle ;
+}
+.x3{
+    list-style-type: disc ;
+}
+.x4{
+    list-style-type: none ;
+}
+.c1{
+    list-style-type:lower-roman ;
+}
+.c2{
+    list-style-type: upper-roman ;
+}
+.c3{
+    list-style-type: lower-alpha ;
+}
+.c4{
+    list-style-type:  upper-alpha;
+}
+.c5{
+    list-style-type:decimal ;
+}
+.c6{
+    list-style-type: decimal-leading-zero;
+}
+.c7{
+    list-style-type:none ;
+}
+.c8{
+    list-style-type: lower-greek ;
+}
+.c9{
+    list-style-image: url(instagram.png);
+}
+.a1{
+    height: 100%;
+    width: 250px;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.a2{
+    height:1px;
+    width: 200px;
+    margin: 0 auto;
+    border: 1px solid grey;
+}
+.a3{
+     list-style-image: url(logo\ \(8\).png);
+     font-size: 30px;
+     margin: 10px 0px;
+     font-weight: 700;
+}
+.a4{
+    list-style-image: url(frame\ \(2\).png);
+}
+.m1{
+    list-style-type: none;
+    list-style-image: url(arrow\ \(1\).png);
+}
+.m1 li:hover{
+    list-style-image:none;
+    background-color: black;
+}
+.m1 li{
+    padding: 10px 15px;
+    width: 250px;
+}
+.m1 li a{
+    text-decoration: none;
+    color: black;
+}
+.m1 li:hover a{
+    color: white;
+}
+.q1{
+    padding-right: 15px;
+}
+.q2{
+    border: 1px solid red;
+}
+.q2 td{
+    border: 1px solid red;
+}
+.q3 tr:first-child{
+    background-color: aqua;
+}
+.q3 tr:last-child{
+    background-color: blueviolet;
+}
+.q3 tr:nth-child(even){
+    background-color: rgb(209, 14, 14);
+}
+.q3 tr:nth-child(7) td:nth-child(odd){
+    background-color: aquamarine;
+}
+.q4 tr:nth-child(odd){
+    background-color: rgb(0, 208, 255);
+}
+.q4{
+    border-collapse: collapse;
+    width: 250px;
+}
+.z1{
+    background-color: rgb(255, 195, 127);
+}

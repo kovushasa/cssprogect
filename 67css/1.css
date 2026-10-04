@@ -1,0 +1,34 @@
+h1{
+    color: beige;
+}
+.r1{
+    color: blue;
+}
+.r2{
+    color: brown;
+    text-align: center;
+}
+#t3{
+    color: black;
+    text-align: right;
+}
+#t2{
+    color: blueviolet;
+}
+.r5{
+    height: 400px;
+    width: 300px;
+}
+.y3{
+    vertical-align: top;
+}
+.y2{
+    vertical-align: middle;
+}
+.y1{
+    vertical-align: bottom;
+}
+.t5{
+    width: 300px;
+    text-align:right ;
+}

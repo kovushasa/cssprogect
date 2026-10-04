@@ -1,0 +1,125 @@
+.a1{
+    font-size: 20px;
+    color:red;
+}
+.a1:hover{
+    font-size: 40px;
+    color:red;
+    text-decoration: none;
+}
+.a2{
+    font-size: 30px;
+    color: brown;
+}
+.a2:hover{
+    font-weight: 900;
+    text-indent: 3px;
+    text-decoration: overline;
+}
+.a3{
+    font-size: 30px;
+}
+.a3:active{
+    color: blueviolet;
+    font-size: 50px;
+}
+.a4{
+    font-size: 20px;
+}
+.a4{
+    color: black;
+}
+.a5:link{
+    color: aqua;
+}
+.a6:link{
+    color: blue;
+}
+.a6:visited{
+    color: blue;
+}
+.a6:hover{
+    color: green;
+}
+.a7:link{
+    color: red;
+    text-decoration: overline;
+}
+.a7:visited{
+    color: red;
+    text-decoration: overline;
+}
+.a7:hover{
+    color: blueviolet;
+    text-decoration: line-through;
+}
+.a8:link{
+    color: aqua;
+    text-decoration: line-through;
+}
+.a8:visited{
+    color: aqua;
+    text-decoration: line-through;
+}
+.a8:hover{
+    color: #fbff00;
+    text-decoration: none;
+}
+.a8:active{
+    font-size: 20px;
+}
+.a9{
+    width: 150px;
+    height: 150px;
+    background-color: #fbff00;
+}
+.s1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF8_cf44FNFfEUiIiU80iYS57JD5oZmHyG0uXKoXl6N4_u0j3HtXrph4M&s=10);
+     width: 400px;
+    height: 400px;
+    background-size: 30%;
+    background-color: blue;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}   
+.s2{
+    width: 500px;
+    height: 300px;
+    background-image: url(https://www.sportsdestinations.com/sites/sportsdestinations.com/files/sports_destination_management/nodes/2015/8968/IMG.jpg);
+    background-size: 30px;
+
+}
+.s3{
+    width: 500px;
+    height: 300px;
+    background-image: url(https://www.sportsdestinations.com/sites/sportsdestinations.com/files/sports_destination_management/nodes/2015/8968/IMG.jpg);
+    background-size: 30px;
+    background-color:  #fbff00;
+    background-repeat: repeat-y;
+    margin-top: 20px;
+}
+.s4{
+    width: 500px;
+    height: 300px;
+    background-image: url(https://www.sportsdestinations.com/sites/sportsdestinations.com/files/sports_destination_management/nodes/2015/8968/IMG.jpg);
+    background-size: 30px;
+    
+}
+.s5{
+    width: 100%;
+    height: 100%;
+    background-image: url(https://www.propertyfinder.ae/blog/wp-content/uploads/2024/09/All-About-IMG-Worlds-of-Adventure1.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.s6{
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    background-image: url(https://www.propertyfinder.ae/blog/wp-content/uploads/2024/09/All-About-IMG-Worlds-of-Adventure1.jpg);
+    background-repeat: no-repeat;
+    background-size: 35%;
+    background-color:black;
+    color: white;
+}

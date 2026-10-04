@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+}
+.z1{
+    width: 1024px;
+    margin: 0 auto 0 auto;
+}
+.z2{
+    
+    
+    width: 277px;
+    height: 59px;
+    margin-top: 20px;
+    display: inline-block;
+}
+.z4{
+    list-style: none; 
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 43px;
+}
+.z4 li{
+    font-size: 14px;
+    color: grey;
+    margin-left: 20px;
+    display: inline-block;
+}
+.z3{
+    width: 1024px;
+    height: 610px;
+    background-image: url(./image.jpg);
+}
+.w1{
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-weight: normal;
+    padding-top: 224px;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.w2{
+    margin: 0;
+    color: white;
+    text-align: center;
+    line-height: 38px;
+    font-size: 24px;
+}
+.z5{
+    background-color: white;
+    width: 33%;
+    height: 316px;
+    display: inline-block;
+    background-image: url(./logo\ \(12\).png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.z6{
+    background-image: url(./image-1\(1\).jpg) ;
+    height: 316px;
+    width: 33%;
+    display: inline-block;
+    background-size: cover;
+    vertical-align: top;
+}
+.z7{
+    background-color: #CC0000;
+    width: 33%;
+    height: 316px;
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 106px;
+    box-sizing: border-box;
+}
+.w4{
+    font-weight: normal;
+    font-size: 16px;
+    margin: 0;
+}
+.w3{
+    font-weight: normal;
+    font-size: 40px;
+    margin: 0;
+}
+.z8{
+    background-color: #46a651;
+    width: 66%;
+    height: 316px;
+    vertical-align: top;
+    display: inline-block;
+    padding: 50px;
+}
+.z9{
+    background-image: url(image-2\ \(2\).jpg);
+    width: 33%;
+    height: 316px;
+    display: inline-block;
+    vertical-align: top;
+}
+.w5{
+   color: white;
+   text-align: right;
+   font-weight: normal;
+   font-size: 43px;
+   margin: 0px;
+}
+.w6{
+   color: white;
+   text-align: right;
+   font-weight: normal;
+   font-size: 18px;
+   margin: 20px 0px;
+}
+.w7{
+    background-color: hsl(127, 48%, 20%);
+    color: white;
+    margin: 15px 0px 10px 462px;
+    padding: 6px 19px 15px 27px;
+    text-align: center;
+    font-size: 15px;
+}
+.x1{
+    background-image: url(./image-3.jpg);  
+    width: 66%;
+    height: 316px ;
+    display: inline-block;
+    vertical-align: top;
+}
+.x2{
+    background-image: url(./ic-fb\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: center top 109px;
+    background-color: #3b5997;
+    width: 33%;
+    height: 316px;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    text-align: center;
+    padding-top: 175px;
+    font-size: 16px;
+}
+.x3{
+    width: 100%;
+    background-color: #373838;
+    font-size: 15px;
+    color: #939393;
+    vertical-align: top;
+}
+.w8 li{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+}
+.w8{
+    margin: 0px;
+}

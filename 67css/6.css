@@ -1,0 +1,40 @@
+.z1{
+    width: 200px;
+    height: 200px;
+    border: 1px solid salmon;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.z2{
+
+    max-width: 500px ;
+    height: 200px;
+    background-color: brown;
+}
+.z3{
+    border: 1px solid red;
+    max-width: 800px;
+    min-width: 300px;
+    height: auto;
+    padding: 20px;
+    border-radius: 35px;
+}
+.z4{
+    color: brown;
+}
+.z5{
+    color: red;
+}
+.z6{
+    color: green;
+}
+.z7{
+    color: blue;
+    text-decoration:underline;
+}
+.z8{
+    padding-left: 600px;
+}
+.z9{
+    color: brown;
+}

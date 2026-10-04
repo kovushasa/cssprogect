@@ -1,0 +1,60 @@
+.q1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a1{
+    width: 80px;
+    height: 50px;
+    border: 1px solid black;
+}
+.a3{
+    width: 80px;
+    height: 50px;
+    border: 1px solid black;
+    align-self: flex-end;
+}
+.q2{
+     width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.a4{
+    width: 80px;
+    height: 50px;
+    border: 1px solid black;
+    align-self: center;
+}
+.q3{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a2{
+    height: 50px;
+    width: 50px;
+    border: 1px solid green;
+}
+.q4{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a5{
+    order: 4;
+}
+.a6{
+    order: -1;
+}
