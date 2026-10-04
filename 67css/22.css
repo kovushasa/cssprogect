@@ -68,37 +68,45 @@
     height: 10px;
     background-size: cover;
 }
-.z1::after{
+/* .z1::after{ */
     content: "";
     display: inline-block;
     background-image: url(chevron-top-svgrepo-com.svg);
     color: white;
-    font-size: 20px;
+    font-size: 10px;
     background-size: cover;
+    width: 10px;
+    height: 10px;
 }
 .z2::before{
     content: "";
     display: inline-block;
     background-image: url(lock-svgrepo-com.svg);
     color: white;
-    font-size: 20px;
-    background-size: 20px;
+    font-size: 10px;
+    background-size: 10px;
+    width: 10px;
+    height: 10px;
 }
 .z3::before{
     content: "";
     display: inline-block;
     background-image: url(credit-card-svgrepo-com.svg);
     color: white;
-    font-size: 20px;
-    background-size: 20px;
+    font-size: 10px;
+    background-size: 10px;
+    width: 10px;
+    height: 10px;
 }
 .z4::before{
     content: "";
     display: inline-block;
     background-image: url(archive-svgrepo-com.svg);
     color: white;
-    font-size: 20px;
-    background-size: 20px;
+    font-size: 10px;
+    background-size: 10px;
+    width: 10px;
+    width: 10px;
 }
 .z2{
     list-style-type: none;
@@ -110,4 +118,13 @@
 }
 .z4{
     list-style-type: none;
+}
+.z5{
+    background-image: url(chevron-top-svgrepo-com.svg);
+    color: white;
+    font-size: 10px;
+    background-size: cover;
+    width: 10px;
+    height: 10px;
+    display: inline-block;
 }
