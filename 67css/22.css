@@ -63,20 +63,12 @@
     display: inline-block;
     background-image: url(cog-svgrepo-com.svg);
     color: white;
-    font-size: 10px;
-    width: 10px;
-    height: 10px;
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
     background-size: cover;
-}
-/* .z1::after{ */
-    content: "";
-    display: inline-block;
-    background-image: url(chevron-top-svgrepo-com.svg);
-    color: white;
-    font-size: 10px;
-    background-size: cover;
-    width: 10px;
-    height: 10px;
+    margin-top: 15px;
+    margin-left: 20px;
 }
 .z2::before{
     content: "";
@@ -84,9 +76,10 @@
     background-image: url(lock-svgrepo-com.svg);
     color: white;
     font-size: 10px;
-    background-size: 10px;
-    width: 10px;
-    height: 10px;
+    background-size: 15px;
+    width: 15px;
+    height: 15px;
+    background-repeat: no-repeat;
 }
 .z3::before{
     content: "";
@@ -94,9 +87,10 @@
     background-image: url(credit-card-svgrepo-com.svg);
     color: white;
     font-size: 10px;
-    background-size: 10px;
-    width: 10px;
-    height: 10px;
+    background-size: 15px;
+    width: 15px;
+    height: 15px;
+    background-repeat: no-repeat;
 }
 .z4::before{
     content: "";
@@ -104,9 +98,10 @@
     background-image: url(archive-svgrepo-com.svg);
     color: white;
     font-size: 10px;
-    background-size: 10px;
-    width: 10px;
-    width: 10px;
+    background-size: 15px;
+    width: 15px;
+    height: 15px;
+    background-repeat: no-repeat;
 }
 .z2{
     list-style-type: none;
@@ -124,7 +119,19 @@
     color: white;
     font-size: 10px;
     background-size: cover;
-    width: 10px;
-    height: 10px;
+    width: 20px;
+    height: 20px;
     display: inline-block;
+    margin-bottom: -3px;
+    margin-left: 25px;
+}
+.z6{
+    width: 108px;
+    height: 0px;
+    border: 1px solid white;
+    margin-left: 22px;
+    margin-top: 10px;
+}
+.list{
+    margin-left: -20px;
 }
