@@ -1,0 +1,67 @@
+.q6::before{
+    content: "";
+    background-image: url(free-icon-font-angle-small-down-3916864.svg);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+    background-size: 10px;
+    font-size: 10px;
+}
+.q1::before{
+    background-image: url(free-icon-font-github-6424084.png);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+    color: black;
+}
+.q2::before{
+    background-image: url(free-icon-font-instagram-6422200\ \(1\).png) ;
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+    color: #e20888;
+}
+.q3::before{
+    background-image:url(free-icon-font-linkedin-6422202.png) ;
+    background-repeat: no-repeat;
+    height: 10px;
+    width: 10px;
+}
+.q4::before{
+    background-image: url(free-icon-font-facebook-6422199.png);
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+}
+.q5::before{
+    background-image: url(free-icon-font-twitter-6422210.png) ;
+    background-repeat: no-repeat;
+    width: 10px;
+    height: 10px;
+}
+.q6:hover{
+     display: block;
+}
+.q6{
+    width: 300px;
+    height: 39px;
+    border: 1px solid #b4aeae;
+    position: relative;
+    box-sizing: border-box;
+    border-radius: 5px;
+    box-shadow: 1opx 10px 10px 10px #b4aeae;
+}
+.q7{
+    list-style-type: none;
+    width: 300px;
+    height: 250px;
+    box-sizing: border-box;
+    border: 1px solid #b4aeae ;
+    padding-left: 15px;
+    border-radius: 5px;
+    
+}
+.q6{
+    padding: 10px 20px;
+
+}
